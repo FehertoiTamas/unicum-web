@@ -156,7 +156,8 @@ export default function UnicumCoctelera() {
 
   return (
     <section
-      className="w-full py-14 px-4 sm:px-6"
+      id="cocktails"
+      className="w-full scroll-mt-24 py-14 px-4 sm:px-6"
       style={{ backgroundColor: "#1B120C" }}
     >
       <div className="max-w-5xl mx-auto">
