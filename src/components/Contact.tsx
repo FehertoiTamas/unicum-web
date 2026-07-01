@@ -78,7 +78,9 @@ export default function Contact() {
             IN-A Solutions S.A.C.
           </p>
           <p className="font-ui text-xs text-unicum-muted mt-1 tracking-wider">Lima, Perú</p>
-          <p className="font-ui text-xs text-unicum-muted/60 mt-1">contacto@ina-solutions.pe</p>
+          <p className="font-ui text-xs text-unicum-muted/60 mt-1">info@inasolutionssac.com
+
+</p>
         </div>
       </div>
     </section>
